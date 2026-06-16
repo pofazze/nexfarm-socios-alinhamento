@@ -1,0 +1,9 @@
+source.html
+_build.js
+*.py
+*.pdf
+*.xlsx
+*.png
+*.bak
+__pycache__/
+.DS_Store
